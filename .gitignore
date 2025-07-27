@@ -1,0 +1,14 @@
+# Qt build artifacts
+build*/
+*.pro.user
+*.qmake.stash
+*.o
+*.obj
+*.exe
+*.log
+Makefile
+*.user
+*.ilk
+*.pdb
+*.vcxproj.*
+*.sln
